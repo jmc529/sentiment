@@ -1,0 +1,209 @@
+{
+    "jobName": "8ae46e0d-b8f8-4bf4-ab40-87cd309aaf3b",
+    "accountId": "951644733496",
+    "results": {
+        "transcripts": [
+            {
+                "transcript": "Thank you, Bless you, Come again, Hello, Hey, come on in, welcome!"
+            }
+        ],
+        "items": [
+            {
+                "start_time": "0.84",
+                "end_time": "1.31",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "Thank"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.31",
+                "end_time": "1.65",
+                "alternatives": [
+                    {
+                        "confidence": "0.9998",
+                        "content": "you"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "2.44",
+                "end_time": "2.77",
+                "alternatives": [
+                    {
+                        "confidence": "0.8753",
+                        "content": "Bless"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.77",
+                "end_time": "2.88",
+                "alternatives": [
+                    {
+                        "confidence": "0.9992",
+                        "content": "you"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "2.88",
+                "end_time": "3.1",
+                "alternatives": [
+                    {
+                        "confidence": "0.9989",
+                        "content": "Come"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.1",
+                "end_time": "3.55",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "again"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "4.94",
+                "end_time": "5.7",
+                "alternatives": [
+                    {
+                        "confidence": "0.983",
+                        "content": "Hello"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "5.71",
+                "end_time": "6.14",
+                "alternatives": [
+                    {
+                        "confidence": "0.8608",
+                        "content": "Hey"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "6.18",
+                "end_time": "6.42",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "come"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.42",
+                "end_time": "6.56",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "on"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.56",
+                "end_time": "6.86",
+                "alternatives": [
+                    {
+                        "confidence": "0.9999",
+                        "content": "in"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "7.44",
+                "end_time": "8.06",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "welcome"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "!"
+                    }
+                ],
+                "type": "punctuation"
+            }
+        ]
+    },
+    "status": "COMPLETED"
+}

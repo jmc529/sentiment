@@ -1,0 +1,865 @@
+{
+    "jobName": "d3af3e04-bf81-47a6-97a1-8d020211b538",
+    "accountId": "951644733496",
+    "results": {
+        "transcripts": [
+            {
+                "transcript": "She was documenting the inherent unfairness that she, as a black lesbian woman, was battling hetero sexist, misogynistic, white supremacist classes structures while battling breast cancer. Over time, the systemic analysis has been completely extracted from Lord's writing. Now it's been transformed into an endorsement of consumption based wellness that just reproduces the structures that she was railing against and by the way, I'm not pathologizing in black women here."
+            }
+        ],
+        "items": [
+            {
+                "start_time": "0.14",
+                "end_time": "0.36",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "She"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "0.36",
+                "end_time": "0.53",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "was"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "0.53",
+                "end_time": "1.48",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "documenting"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.48",
+                "end_time": "1.6",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "the"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.6",
+                "end_time": "2.04",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "inherent"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.04",
+                "end_time": "2.55",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "unfairness"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.55",
+                "end_time": "2.71",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "that"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.71",
+                "end_time": "3.15",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "she"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "3.15",
+                "end_time": "3.39",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "as"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.39",
+                "end_time": "3.48",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "a"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.48",
+                "end_time": "3.81",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "black"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.81",
+                "end_time": "4.27",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "lesbian"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "4.27",
+                "end_time": "4.63",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "woman"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "4.63",
+                "end_time": "4.81",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "was"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "4.81",
+                "end_time": "5.44",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "battling"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "5.45",
+                "end_time": "6.02",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "hetero"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.02",
+                "end_time": "6.7",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "sexist"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "6.7",
+                "end_time": "7.54",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "misogynistic"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "7.55",
+                "end_time": "7.86",
+                "alternatives": [
+                    {
+                        "confidence": "0.6816",
+                        "content": "white"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.86",
+                "end_time": "8.54",
+                "alternatives": [
+                    {
+                        "confidence": "0.932",
+                        "content": "supremacist"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.55",
+                "end_time": "9.0",
+                "alternatives": [
+                    {
+                        "confidence": "0.7666",
+                        "content": "classes"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.0",
+                "end_time": "9.78",
+                "alternatives": [
+                    {
+                        "confidence": "0.996",
+                        "content": "structures"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.79",
+                "end_time": "10.63",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "while"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "10.63",
+                "end_time": "11.16",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "battling"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.16",
+                "end_time": "11.44",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "breast"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.44",
+                "end_time": "12.02",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "cancer"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "12.03",
+                "end_time": "12.37",
+                "alternatives": [
+                    {
+                        "confidence": "0.9513",
+                        "content": "Over"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.37",
+                "end_time": "12.93",
+                "alternatives": [
+                    {
+                        "confidence": "0.9513",
+                        "content": "time"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "12.94",
+                "end_time": "13.06",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "the"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.06",
+                "end_time": "13.51",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "systemic"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.51",
+                "end_time": "14.05",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "analysis"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.05",
+                "end_time": "14.2",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "has"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.2",
+                "end_time": "14.43",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "been"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.43",
+                "end_time": "15.15",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "completely"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.15",
+                "end_time": "15.77",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "extracted"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.77",
+                "end_time": "15.96",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "from"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.96",
+                "end_time": "16.23",
+                "alternatives": [
+                    {
+                        "confidence": "0.4973",
+                        "content": "lourdes"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "16.23",
+                "end_time": "16.76",
+                "alternatives": [
+                    {
+                        "confidence": "0.7137",
+                        "content": "writing"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "17.14",
+                "end_time": "17.44",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "Now"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.44",
+                "end_time": "17.58",
+                "alternatives": [
+                    {
+                        "confidence": "0.9996",
+                        "content": "it's"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.58",
+                "end_time": "17.75",
+                "alternatives": [
+                    {
+                        "confidence": "0.9961",
+                        "content": "been"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.75",
+                "end_time": "18.55",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "transformed"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "18.56",
+                "end_time": "18.86",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "into"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "18.86",
+                "end_time": "18.95",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "an"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "18.95",
+                "end_time": "19.58",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "endorsement"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "19.59",
+                "end_time": "19.78",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "of"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "19.78",
+                "end_time": "20.41",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "consumption"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "20.41",
+                "end_time": "20.71",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "based"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "20.71",
+                "end_time": "21.23",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "wellness"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "21.24",
+                "end_time": "21.44",
+                "alternatives": [
+                    {
+                        "confidence": "0.998",
+                        "content": "that"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "21.44",
+                "end_time": "21.74",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "just"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "21.74",
+                "end_time": "22.41",
+                "alternatives": [
+                    {
+                        "confidence": "0.9934",
+                        "content": "reproduces"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "22.41",
+                "end_time": "22.51",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "the"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "22.51",
+                "end_time": "23.02",
+                "alternatives": [
+                    {
+                        "confidence": "0.9851",
+                        "content": "structures"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "23.02",
+                "end_time": "23.18",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "that"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "23.18",
+                "end_time": "23.31",
+                "alternatives": [
+                    {
+                        "confidence": "0.9985",
+                        "content": "she"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "23.31",
+                "end_time": "23.47",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "was"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "23.47",
+                "end_time": "23.77",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "railing"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "23.77",
+                "end_time": "24.49",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "against"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "24.5",
+                "end_time": "24.68",
+                "alternatives": [
+                    {
+                        "confidence": "0.9975",
+                        "content": "and"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "24.68",
+                "end_time": "24.78",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "by"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "24.78",
+                "end_time": "24.87",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "the"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "24.87",
+                "end_time": "25.36",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "way"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "25.74",
+                "end_time": "25.97",
+                "alternatives": [
+                    {
+                        "confidence": "0.6201",
+                        "content": "I'm"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "25.97",
+                "end_time": "26.13",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "not"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "26.13",
+                "end_time": "26.74",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "pathologize"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "26.74",
+                "end_time": "26.84",
+                "alternatives": [
+                    {
+                        "confidence": "0.633",
+                        "content": "in"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "26.84",
+                "end_time": "27.07",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "black"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "27.07",
+                "end_time": "27.3",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "women"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "27.3",
+                "end_time": "27.75",
+                "alternatives": [
+                    {
+                        "confidence": "0.9951",
+                        "content": "here"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            }
+        ]
+    },
+    "status": "COMPLETED"
+}

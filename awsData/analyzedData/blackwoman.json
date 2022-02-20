@@ -1,0 +1,612 @@
+{
+    "jobName": "2e1968cd-6be0-4b74-bbe4-c9b1d5fe0333",
+    "accountId": "951644733496",
+    "results": {
+        "transcripts": [
+            {
+                "transcript": "Being a black person in America is very, very hard, although you all love to say, oh, nobody should see race. People are the reason that racism is still alive. Well, what kind of people are the reason? Black Racists have no power, whereas white Racists do."
+            }
+        ],
+        "items": [
+            {
+                "start_time": "0.14",
+                "end_time": "0.63",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "Being"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "0.63",
+                "end_time": "0.7",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "a"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "0.7",
+                "end_time": "1.05",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "black"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.05",
+                "end_time": "1.43",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "person"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.43",
+                "end_time": "1.53",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "in"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.53",
+                "end_time": "2.21",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "America"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.22",
+                "end_time": "2.5",
+                "alternatives": [
+                    {
+                        "confidence": "0.9927",
+                        "content": "is"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.5",
+                "end_time": "2.82",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "very"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "2.82",
+                "end_time": "3.14",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "very"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.14",
+                "end_time": "3.68",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "hard"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "3.69",
+                "end_time": "4.26",
+                "alternatives": [
+                    {
+                        "confidence": "0.999",
+                        "content": "although"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "4.26",
+                "end_time": "4.47",
+                "alternatives": [
+                    {
+                        "confidence": "0.9954",
+                        "content": "you"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "4.47",
+                "end_time": "4.7",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "all"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "4.7",
+                "end_time": "5.1",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "love"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "5.1",
+                "end_time": "5.25",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "to"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "5.25",
+                "end_time": "5.77",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "say"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "5.78",
+                "end_time": "6.34",
+                "alternatives": [
+                    {
+                        "confidence": "0.9713",
+                        "content": "oh"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "6.34",
+                "end_time": "6.8",
+                "alternatives": [
+                    {
+                        "confidence": "0.9977",
+                        "content": "nobody"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.8",
+                "end_time": "7.04",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "should"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.04",
+                "end_time": "7.29",
+                "alternatives": [
+                    {
+                        "confidence": "0.9929",
+                        "content": "see"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.29",
+                "end_time": "7.93",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "race"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "7.94",
+                "end_time": "8.67",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "People"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.67",
+                "end_time": "8.79",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "are"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.79",
+                "end_time": "8.91",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "the"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.91",
+                "end_time": "9.29",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "reason"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.29",
+                "end_time": "9.49",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "that"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.49",
+                "end_time": "9.99",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "racism"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.99",
+                "end_time": "10.08",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "is"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "10.08",
+                "end_time": "10.3",
+                "alternatives": [
+                    {
+                        "confidence": "0.8464",
+                        "content": "still"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "10.3",
+                "end_time": "10.83",
+                "alternatives": [
+                    {
+                        "confidence": "0.6803",
+                        "content": "laugh"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "10.84",
+                "end_time": "11.28",
+                "alternatives": [
+                    {
+                        "confidence": "0.9859",
+                        "content": "Well"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "11.28",
+                "end_time": "11.51",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "what"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.51",
+                "end_time": "11.83",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "kind"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.83",
+                "end_time": "11.94",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "of"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.94",
+                "end_time": "12.27",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "people"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.27",
+                "end_time": "12.39",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "are"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.39",
+                "end_time": "12.51",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "the"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.51",
+                "end_time": "13.06",
+                "alternatives": [
+                    {
+                        "confidence": "0.9998",
+                        "content": "reason"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.54",
+                "end_time": "14.01",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "black"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.01",
+                "end_time": "14.51",
+                "alternatives": [
+                    {
+                        "confidence": "0.9927",
+                        "content": "Racists"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.51",
+                "end_time": "14.74",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "have"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.74",
+                "end_time": "14.91",
+                "alternatives": [
+                    {
+                        "confidence": "0.9999",
+                        "content": "no"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.91",
+                "end_time": "15.55",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "power"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "15.94",
+                "end_time": "16.47",
+                "alternatives": [
+                    {
+                        "confidence": "0.9918",
+                        "content": "whereas"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "16.47",
+                "end_time": "16.79",
+                "alternatives": [
+                    {
+                        "confidence": "0.8875",
+                        "content": "white"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "16.79",
+                "end_time": "17.35",
+                "alternatives": [
+                    {
+                        "confidence": "0.7981",
+                        "content": "Racists"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.41",
+                "end_time": "17.95",
+                "alternatives": [
+                    {
+                        "confidence": "0.9057",
+                        "content": "do"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            }
+        ]
+    },
+    "status": "COMPLETED"
+}
